@@ -102,4 +102,4 @@ docker run -it --rm \
 -e NULINK_KEYSTORE_PASSWORD \
 nulink/nulink nulink ursula init \
 --signer keystore:///code/xxxxxxxxxxxxxxxxxxxxxxx \
---eth-provider https://data-seed-prebsc
+--eth-provider 
