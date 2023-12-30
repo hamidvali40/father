@@ -74,5 +74,3 @@ pip install virtualenv
 virtualenv /root/nulink-venv
 
 source /root/nulink-venv/bin/activate
-
-wget https://filetransfer.nulink.org/release
