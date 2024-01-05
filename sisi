@@ -71,4 +71,4 @@ chmod -R 777 /root/nulink
 
 pip install virtualenv
 
-virtualenv /root/nulink-venv
+virtualenv /root/
